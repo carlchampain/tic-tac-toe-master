@@ -1,0 +1,15 @@
+#board {
+  margin-top: 10px;
+}
+
+.box {
+  border: 5px solid black;
+  height: 150px;
+  background: #d3d3d3;
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: #695858;
+  float: right;
+}
